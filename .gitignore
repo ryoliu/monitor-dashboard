@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/README.md
+!/images/
+!/images/Info_Wall_Windows.png
+!/images/MSSQL_Dashboard.png
+!/images/TopSqlMonitor.png
